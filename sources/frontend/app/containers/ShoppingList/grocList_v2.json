@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "canned black beans",
+      "price": "$0.21",
+      "amount": 3.83,
+      "unit": "oz"
+    },
+    {
+      "name": "colby monterey jack",
+      "price": "$0.44",
+      "amount": 0.25,
+      "unit": "cup"
+    },
+    {
+      "name": "corn tortillas",
+      "price": "$0.09",
+      "amount": 1,
+      "unit": "6-inch"
+    },
+    {
+      "name": "tomato",
+      "price": "$0.04",
+      "amount": 0.17,
+      "unit": "lb"
+    },
+    {
+      "name": "enchilada sauce",
+      "price": "$0.27",
+      "amount": 1.67,
+      "unit": "ounce"
+    },
+    {
+      "name": "chiles",
+      "price": "$0.19",
+      "amount": 0.75,
+      "unit": "ounce"
+    },
+    {
+      "name": "avocado",
+      "price": "$0.26",
+      "amount": 0.17,
+      "unit": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "price": "$0.22",
+      "amount": 0.13,
+      "unit": "cup"
+    }
+  ]
+}

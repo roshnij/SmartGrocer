@@ -1,0 +1,154 @@
+{
+	"data": [
+		{
+		"groceryProducts":[
+			{
+				"aisle": "Produce",
+				"name": "sweet potato",
+				"price": 0.92,
+				"amount": 1,
+				"unit": "pound",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "lettuce",
+				"price": 8.8,
+				"amount": 1,
+				"unit": "kg",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Pasta and Rice",
+				"name": "salsa",
+				"price": 3.79,
+				"amount": 1,
+				"unit": "can(907g)",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Condiments",
+				"name": "hot sauce",
+				"price": 1.27,
+				"amount": 1,
+				"unit": "bottle(100ml)",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "juice of lime",
+				"amount": 1,
+				"price": 2.27,
+				"unit": "bottle(440ml)",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "jalapeno",
+				"price": 3.25,
+				"amount": 1,
+				"unit": "lb",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "avocado",
+				"price": 1.97,
+				"amount": 1,
+				"unit": "",
+				"discount": 0.2
+			},
+			{
+				"aisle": "Produce",
+				"name": "tomato",
+				"price": 2.47,
+				"amount": 1,
+				"unit": "lb",
+				"discount": 0.2
+			},
+			{
+				"aisle": "Produce",
+				"name": "capsicum",
+				"price": 3.97,
+				"amount": 1,
+				"unit": "lb",
+				"discount": 0.2
+			},
+			{
+				"aisle": "Produce",
+				"name": "onion",
+				"price": 1.98,
+				"amount": 1,
+				"unit": "lb",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "enchilada sauce",
+				"price": 5.98,
+				"amount": 10,
+				"unit": "ounce",
+				"discount": 2.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "caesar sauce",
+				"price": 4.98,
+				"amount": 10,
+				"unit": "ounce",
+				"discount": 2.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "chiles",
+				"price": 2.98,
+				"amount": 1,
+				"unit": "ounce",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "shredded mozzarella cheese",
+				"price": 4.98,
+				"amount": 125,
+				"unit": "grams",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Produce",
+				"name": "colby monterey jack",
+				"price": 4.24,
+				"amount": 125,
+				"unit": "grams",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Baking",
+				"name": "swerve sweetener",
+				"price": 9.37,
+				"amount": 1,
+				"unit": "Pkt(340g)",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Canned and Jarred",
+				"name": "black beans",
+				"amount": 15,
+				"price": 2.57,
+				"unit": "oz",
+				"discount": 0.0
+			},
+			{
+				"aisle": "Canned and Jarred",
+				"name": "corn tortillas",
+				"amount": 1,
+				"price": 0.09,
+				"unit": "6-inch",
+				"discount": 0.0
+			}
+		]
+		}
+	]
+}
+			
+		

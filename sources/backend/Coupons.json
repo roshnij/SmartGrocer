@@ -1,0 +1,29 @@
+ { "Data": [
+    {
+      "IngredientsCoupons": [
+        {"name":"black beans", "discount":15, "date": 14/05/2018},
+        {"name":"avocado", "discount":10, "date": 18/04/2018},
+        {"name":"potato", "discount":10, "date": 18/04/2018},
+        {"name":"lettuce", "discount":20, "date": 17/04/2018},
+        {"name":"tomatoes", "discount":10, "date": 17/04/2018},
+        {"name":"strawberry", "discount":15, "date": 17/04/2018},
+		{"name":"brown rice", "discount":20, "date": 19/05/2018},
+        {"name":"lindt's choclates", "discount":15, "date": "False"},
+        {"name":"cream cheese", "discount":10, "date": 25/04/2018},
+        {"name":"tortillas", "discount":15, "date": 15/05/2018},
+        {"name":"lemon", "discount":10, "date": 17/04/2018},
+        {"name":"carrots", "discount":10, "date": 18/04/2018},
+        {"name":"spring onions", "discount":10, "date": 18/04/2018},
+		{"name":"Canned Chickpeas", "discount":10, "date": 30/04/2018}
+		{"name":"Kirkland Cashews", "discount":20, "date": "False"}
+		{"name":"Cauliflower", "discount":15, "date": 17/04/2018}
+		{"name":"Mushrooms", "discount":15, "date": 18/04/2018}
+		{"name":"Fresh Lemon", "discount":10, "date": 18/04/2018}
+		{"name":"Kale", "discount":15, "date": 17/04/2018}
+		{"name":"Ginger", "discount":10, "date": 18/04/2018}
+		{"name":"Garlic", "discount":10, "date": 18/04/2018}
+		{"name":"Tofu", "discount":15, "date": 30/04/2018}
+      ]
+    }
+  ]
+}

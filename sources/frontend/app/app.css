@@ -1,0 +1,73 @@
+body {
+	background: #eee;
+}
+
+/* https://github.com/callemall/material-ui/issues/4008 */
+button, 
+html [type="button"], 
+[type="reset"], 
+[type="submit"] {
+	appearance: none !important;
+	-webkit-appearance: none !important;
+}
+
+.sticky {
+	transition: all 0.2s ease;
+	z-index: 999;
+}
+
+.sticky.active > div {
+	border-top-left-radius: 0 !important;
+	border-top-right-radius: 0 !important; 
+	box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, 
+				rgba(0, 0, 0, 0.3) 0px 1px 20px !important;
+	margin-top: 0 !important;
+}
+
+.hlist {
+	display: flex;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.hlist li {
+	border-right: 1px solid rgba(0, 0, 0, 0.06);
+	flex-grow: 1;
+	list-style-type: none;
+	margin: 0 3px 0 0;
+	padding: 3px;
+	text-align: center;
+}
+
+.hlist li:last-child {
+	border: none;
+	margin-right: 0;
+}
+
+.hlist li span {
+	display: block;
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
+.recipe-picture {
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+}
+
+.recipe-summary:hover .recipe-picture > span {
+	opacity: 1 !important;
+	transition: opacity 0.5s ease;
+}
+
+.recipe-ingredient {
+	background-position: center center;
+	background-size: cover;
+	border-radius: 50%;
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+}

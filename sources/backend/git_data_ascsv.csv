@@ -1,0 +1,10 @@
+apple,egg,bell pepper,carrot,croissant
+egg,black tea,strawberry,orange,bell pepper
+carrot,croissant,black tea,orange,
+bell pepper,egg,strawberry,orange,apple
+apple,egg,orange,bell pepper,black tea
+orange,croissant,orange,strawberry,
+carrot,strawberry,bell pepper,,
+croissant,black tea,,,
+apple,black tea,egg,strawberry,
+carrot,orange,croissant,,

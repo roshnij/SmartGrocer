@@ -1,0 +1,41 @@
+{
+    "env": {
+        "node": true,
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+        "describe": true,
+        "it": true,
+        "before": true,
+        "window": true,
+        "document": true
+    },
+    "extends": "eslint:recommended",
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "ecmaVersion": 6,
+            "sourceType": "module",
+            "experimentalObjectRestSpread": true,
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "indent": [
+            "warn",
+            "tab"
+        ],
+        "no-unused-vars": [
+            "warn", 
+            { 
+                "vars": "all", 
+                "args": "after-used"
+            }
+        ]
+    }
+}

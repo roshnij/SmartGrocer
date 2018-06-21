@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "colby monterey jack": {
+        "isDiscount": false,
+        "recipes": [
+          "Quesadillas in Black Bean Sauce"
+        ]
+      },
+      "kale": {
+        "isDiscount": false,
+        "recipes": [
+          "Vegan Sweet Potato Black Bean Enchiladas",
+          "Kale, Tomato and Tofu Breakfast Burritos"
+        ]
+      },
+      "greek yogurt": {
+        "isDiscount": false,
+        "recipes": [
+          "Tofu Breakfast Burritos"
+        ]
+      },
+      "tofu": {
+        "discount": 15,
+        "recipes": [
+          "Healthy Tofu Breakfast Burritos",
+          "Vegan Quiche with Asparagus and Tomatoes"
+        ],
+        "isDiscount": true
+      },
+      "egg plant": {
+        "isDiscount": false,
+        "recipes": [
+          "Tofu Breakfast Burritos"
+        ]
+      },
+      "fresh ginger": {
+        "isDiscount": false,
+        "recipes": [
+          "Vegetarian Grilled Mexican Stuffed Bell Peppers"
+        ]
+      },
+      "lettuce": {
+        "discount": 20,
+        "recipes": [
+          "Mexican Quinoa Salad Cups with Creamy Cilantro Lime Dressing",
+          "Mexican salad in a jar"
+        ],
+        "isDiscount": true
+      },
+      "spinach leaves": {
+        "isDiscount": false,
+        "recipes": [
+          "Vegetarian Grilled Mexican Stuffed Bell Peppers",
+          "Mexican salad in a jar"
+        ]
+      },
+      "brown rice": {
+        "discount": 20,
+        "recipes": [
+          "Healthy Tofu Breakfast Burritos",
+          "Hearty Bean Burritos",
+          "Vegetarian Grilled Mexican Stuffed Bell Peppers"
+        ],
+        "isDiscount": true
+      },
+      "avocado": {
+        "discount": 10,
+        "recipes": [
+          "Mexican Quinoa Breakfast Bowl",
+          "Healthy Tofu Breakfast Burritos",
+          "Kale, Tomato and Tofu Breakfast Burritos",
+          "Spiralized Sweet Potato & Black Bean Quesadillas",
+          "Mexican Quinoa Salad Cups with Creamy Cilantro Lime Dressing",
+          "Quinoa Enchilada Casserole",
+          "Chopped Mexican Salad"
+        ],
+        "isDiscount": true
+      },
+      "tomatoes": {
+        "discount": 10,
+        "recipes": [
+          "Vegan Quiche with Asparagus and Tomatoes",
+          "Hearty Bean Burritos",
+          "Quinoa Enchilada Casserole",
+          "Sun-Dried Tomato and Arugula Pizza",
+          "Red Lentil Mulligatawny with Apple-Celery Salsa"
+        ],
+        "isDiscount": true
+      },
+      "red bell pepper": {
+        "isDiscount": false,
+		"recipes": [
+          
+        ]
+      },
+      "celery": {
+        "isDiscount": false,
+		"recipes": [
+          
+        ]
+      },
+      "RecommendedCoupons": [
+        {
+          "discount": 15,
+          "name": "strawberry"
+        },
+        {
+          "discount": 15,
+          "name": "lindt's choclates"
+        },
+        {
+          "discount": 10,
+          "name": "lemon"
+        },
+        {
+          "discount": 10,
+          "name": "carrots"
+        }
+      ],
+      "quinoa": {
+        "isDiscount": false,
+		"recipes": [
+          
+        ]
+      },
+      "black beans": {
+        "discount": 15,
+        "recipes": [
+          "Mexican Tofu Frittata",
+          "Healthy Tofu Breakfast Burritos",
+          "Hearty Bean Burritos",
+          "Spiralized Sweet Potato & Black Bean Quesadillas",
+          "Mexican Quinoa Salad Cups with Creamy Cilantro Lime Dressing",
+          "Quinoa Enchilada Casserole",
+          "Vegan Sweet Potato Black Bean Enchiladas",
+          "Quesadillas in Black Bean Sauce",
+          "Chopped Mexican Salad",
+          "Sweet Potato & Black Bean Quesadilla",
+          "Mexican salad in a jar"
+        ],
+        "isDiscount": true
+      },
+      "tortillas": {
+        "discount": 15,
+        "recipes": [
+          "Tofu Breakfast Burritos",
+          "Kale, Tomato and Tofu Breakfast Burritos",
+          "Hearty Bean Burritos",
+          "Spiralized Sweet Potato & Black Bean Quesadillas",
+          "Vegan Sweet Potato Black Bean Enchiladas",
+          "Quesadillas in Black Bean Sauce",
+          "Sweet Potato & Black Bean Quesadilla",
+          "Mexican salad in a jar"
+        ],
+        "isDiscount": true
+      },
+      "potato": {
+        "discount": 10,
+        "recipes": [
+          "Mexican Quinoa Salad Cups with Creamy Cilantro Lime Dressing",
+          "Sweet Potato & Black Bean Quesadilla"
+        ],
+        "isDiscount": true
+      },
+      "spring onions": {
+        "discount": 10,
+        "recipes": [
+          "Mexican Tofu Frittata",
+          "Healthy Tofu Breakfast Burritos",
+          "Vegan Quiche with Asparagus and Tomatoes",
+          "Kale, Tomato and Tofu Breakfast Burritos",
+          "Red Lentil Mulligatawny with Apple-Celery Salsa"
+        ],
+        "isDiscount": true
+      }
+    }
+  ]
+}

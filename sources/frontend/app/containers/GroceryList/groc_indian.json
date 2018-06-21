@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "egg noodles": {
+        "recipes": [
+          "Asian Noodle, Mushroom, and Cabbage Salad"
+        ],
+        "isDiscount": false
+      },
+      "soy buttery spread": {
+        "recipes": [
+          "Tal Ronnen's Agave Lime Grilled Tofu with Asian Slaw and Mashed Sweet Potatoes"
+        ],
+        "isDiscount": false
+      },
+      "RecommendedCoupons": [
+        {
+          "discount": 10,
+          "name": "avocado"
+        },
+        {
+          "discount": 20,
+          "name": "lettuce"
+        },
+        {
+          "discount": 15,
+          "name": "strawberry"
+        },
+        {
+          "discount": 15,
+          "name": "lindt's choclates"
+        },
+        {
+          "discount": 10,
+          "name": "cream cheese"
+        },
+        {
+          "discount": 15,
+          "name": "tortillas"
+        },
+        {
+          "discount": 10,
+          "name": "carrots"
+        },
+        {
+          "discount": 10,
+          "name": "Fresh Lemon"
+        }
+      ],
+      "Cashews": {
+        "discount": 20,
+        "recipes": [
+          "Cauliflower-Cashew Curry",
+          "Cashew, Coconut, and Squash Curry"
+        ],
+        "isDiscount": true
+      },
+      "Ginger": {
+        "discount": 10,
+        "recipes": [
+          "Chickpea and Spinach Curry",
+          "Asian Noodle, Mushroom, and Cabbage Salad",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)",
+          "Green-Lentil Curry",
+          "Garbanzo-Tomato Curry"
+        ],
+        "isDiscount": true
+      },
+      "milk": {
+        "recipes": [
+          "Indian Omelet"
+        ],
+        "isDiscount": false
+      },
+      "lemon": {
+        "discount": 10,
+        "recipes": [
+          "Asian Noodle, Mushroom, and Cabbage Salad",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)",
+          "Cashew, Coconut, and Squash Curry",
+          "kachumber salad or kuchumber salad – indian vegetable salad"
+        ],
+        "isDiscount": true
+      },
+      "spinach": {
+        "recipes": [
+          "Chickpea and Spinach Curry"
+        ],
+        "isDiscount": false
+      },
+      "brown rice": {
+        "discount": 20,
+        "recipes": [
+          "Cauliflower-Cashew Curry",
+          "Tal Ronnen's Agave Lime Grilled Tofu with Asian Slaw and Mashed Sweet Potatoes",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)",
+          "Chickpea Curry with Spinach and Tomatoes"
+        ],
+        "isDiscount": true
+      },
+      "canned coconut milk": {
+        "recipes": [
+          "Cashew, Coconut, and Squash Curry"
+        ],
+        "isDiscount": false
+      },
+      "Garlic": {
+        "discount": 10,
+        "recipes": [
+          "Akoori (Indian Scrambled Eggs)",
+          "Asian Noodle, Mushroom, and Cabbage Salad",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)",
+          "Garbanzo-Tomato Curry"
+        ],
+        "isDiscount": true
+      },
+      "tomatoes": {
+        "discount": 10,
+        "recipes": [
+          "Chickpea and Spinach Curry",
+          "Cauliflower-Cashew Curry",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)",
+          "Green-Lentil Curry",
+          "Garbanzo-Tomato Curry",
+          "Chickpea Curry with Spinach and Tomatoes"
+        ],
+        "isDiscount": true
+      },
+      "eggs": {
+        "recipes": [
+          "Indian Omelet"
+        ],
+        "isDiscount": false
+      },
+      "peas": {
+        "recipes": [
+          "Cauliflower-Cashew Curry"
+        ],
+        "isDiscount": false
+      },
+      "black beans": {
+        "discount": 15,
+        "recipes": [
+          "Cauliflower-Cashew Curry"
+        ],
+        "isDiscount": true
+      },
+      "Kale": {
+        "discount": 15,
+        "recipes": [
+          "Green-Lentil Curry"
+        ],
+        "isDiscount": true
+      },
+      "Cauliflower": {
+        "discount": 15,
+        "recipes": [
+          "Cauliflower-Cashew Curry",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)"
+        ],
+        "isDiscount": true
+      },
+      "potato": {
+        "discount": 10,
+        "recipes": [
+          "Indian Omelet",
+          "Tal Ronnen's Agave Lime Grilled Tofu with Asian Slaw and Mashed Sweet Potatoes"
+        ],
+        "isDiscount": true
+      },
+      "Tofu": {
+        "discount": 15,
+        "recipes": [
+          "Tal Ronnen's Agave Lime Grilled Tofu with Asian Slaw and Mashed Sweet Potatoes"
+        ],
+        "isDiscount": true
+      },
+      "Canned Chickpeas": {
+        "discount": 10,
+        "recipes": [
+          "Chickpea and Spinach Curry",
+          "Chickpea Curry with Spinach and Tomatoes"
+        ],
+        "isDiscount": true
+      },
+      "Mushrooms": {
+        "discount": 15,
+        "recipes": [
+          "Asian Noodle, Mushroom, and Cabbage Salad"
+        ],
+        "isDiscount": true
+      },
+      "spring onions": {
+        "discount": 10,
+        "recipes": [
+          "Indian Masala Omelet",
+          "Sooji Upma (Indian Semolina Breakfast Dish)",
+          "Bhaji frittata",
+          "Akoori (Indian Scrambled Eggs)",
+          "Indian Omelet",
+          "Chickpea and Spinach Curry",
+          "Asian Noodle, Mushroom, and Cabbage Salad",
+          "Curried Red Kidney Beans and Cauliflower (Rajma Masala)",
+          "Garbanzo-Tomato Curry",
+          "Cashew, Coconut, and Squash Curry",
+          "kachumber salad or kuchumber salad – indian vegetable salad",
+          "Chickpea Curry with Spinach and Tomatoes"
+        ],
+        "isDiscount": true
+      },
+      "cucumber": {
+        "recipes": [
+          "kachumber salad or kuchumber salad – indian vegetable salad"
+        ],
+        "isDiscount": false
+      }
+    }
+  ]
+}

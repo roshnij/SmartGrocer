@@ -1,0 +1,269 @@
+{
+	"data": [
+		{
+			"carbs": "69g",
+			"costPerServing": 4.26,
+			"title": "Mexican Quinoa Salad Cups with Creamy Cilantro Lime Dressing",
+			"cuisines": [
+				"mexican"
+			],
+			"image": "https://spoonacular.com/recipeImages/Mexican-Quinoa-Salad-Cups-with-Creamy-Cilantro-Lime-Dressing-500436.jpg",
+			"calories": 606,
+			"fat": "37g",
+			"readyInMinutes": 30,
+			"usedIngredients": [
+				{
+					"aisle": "Spices and Seasonings",
+					"name": "cumin",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg",
+					"amount": 0.13,
+					"id": 1002014,
+					"unit": "tsp"
+				},
+				{
+					"aisle": "Produce",
+					"name": "cilantro",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/cilantro.png",
+					"amount": 0.25,
+					"id": 11165,
+					"unit": "cup"
+				}
+			],
+			"missedIngredientsCost": 4.23,
+			"missedIngredients": [
+				{
+					"aisle": "Produce",
+					"name": "sweet potato",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/sweet-potato.jpg",
+					"price": "$0.11",
+					"amount": 0.25,
+					"id": 11507,
+					"unit": ""
+				},
+				{
+					"aisle": "Produce",
+					"name": "lettuce",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/iceberg-lettuce.jpg",
+					"price": "$0.99",
+					"amount": 0.5,
+					"id": 11252,
+					"unit": "heads"
+				},
+				{
+					"aisle": "Pasta and Rice",
+					"name": "salsa",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/salsa.jpg",
+					"price": "$0.13",
+					"amount": 1,
+					"id": 6164,
+					"unit": "servings"
+				},
+				{
+					"aisle": "Condiments",
+					"name": "hot sauce",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/hot-sauce-or-tabasco.png",
+					"price": "$0.00",
+					"amount": 1,
+					"id": 6168,
+					"unit": "servings"
+				},
+				{
+					"aisle": "Produce",
+					"name": "juice of lime",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/lime-juice.jpg",
+					"amount": 8.5,
+					"price": "$2.16",
+					"id": 9160,
+					"unit": ""
+				},
+				{
+					"aisle": "Produce",
+					"name": "jalapeno",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/jalapeno-pepper.png",
+					"price": "$0.40",
+					"amount": 0.25,
+					"id": 11979,
+					"unit": "slicesslices"
+				},
+				{
+					"aisle": "Produce",
+					"name": "avocado",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/avocado.jpg",
+					"price": "$0.20",
+					"amount": 0.13,
+					"id": 9037,
+					"unit": ""
+				},
+				{
+					"aisle": "Baking",
+					"name": "swerve sweetener",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/sugar-substitute.jpg",
+					"price": "$0.08",
+					"amount": 0.25,
+					"id": 99084,
+					"unit": "Tbsp"
+				},
+				{
+					"aisle": "Canned and Jarred",
+					"name": "black beans",
+					"image": "https://spoonacular.com/cdn/ingredients_100x100/black-beans.jpg",
+					"amount": 3.75,
+					"price": "$0.16",
+					"id": 16015,
+					"unit": "ounce"
+				}
+			],
+			"protein": "15g",
+			"cookingInstructions": [
+				{
+					"equipment": [
+						{
+							"image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg",
+							"id": 404784,
+							"name": "oven"
+						}
+					],
+					"step": "Preheat oven to 400 degrees and prep sweet potatoes. Toss in a drizzle of olive oil and 1/4 tsp each cumin, cinnamon and sea salt.",
+					"number": 1,
+					"ingredients": [
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/sweet-potato.jpg",
+							"id": 11507,
+							"name": "sweet potato"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/olive-oil.jpg",
+							"id": 4053,
+							"name": "olive oil"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/salt.jpg",
+							"id": 1012047,
+							"name": "sea salt"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg",
+							"id": 1002014,
+							"name": "cumin"
+						}
+					]
+				},
+				{
+					"equipment": [
+						{
+							"image": "https://spoonacular.com/cdn/equipment_100x100/strainer.png",
+							"id": 405600,
+							"name": "sieve"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/equipment_100x100/sauce-pan.jpg",
+							"id": 404669,
+							"name": "sauce pan"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/equipment_100x100/blender.png",
+							"id": 404726,
+							"name": "blender"
+						}
+					],
+					"step": "Bake for 20-25 minutes or until tender and slightly golden brown.Rinse quinoa in a fine mesh strainer and place in a small saucepan over medium-high heat to toast. Stir and cook for 2-3 minutes and then add 1 1/2 cups water and stir. Bring to a boil, then reduce heat to simmer, cover and cook for 15 minutes or until tender and the water is fully absorbed. Turn off heat and set aside.In a separate saucepan, bring black beans to a simmer over medium heat and season with 1/4 tsp each sea salt, cumin and cinnamon. If your black beans are already salted, omit additional salt. Once bubbly and warm, turn heat to simmer/low.Prepare dressing by adding all ingredients besides water to a blender and blending.",
+					"number": 2,
+					"ingredients": [
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/black-beans.jpg",
+							"id": 16015,
+							"name": "black beans"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/salt.jpg",
+							"id": 1012047,
+							"name": "sea salt"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg",
+							"id": 1002014,
+							"name": "cumin"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/water.jpg",
+							"id": 14412,
+							"name": "water"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/salt.jpg",
+							"id": 2047,
+							"name": "salt"
+						}
+					]
+				},
+				{
+					"equipment": [],
+					"step": "Add water to thin and scrape down sides as needed. Taste and adjust seasonings as needed, adding more lime, salt, cumin or sweetener as desired.",
+					"number": 3,
+					"ingredients": [
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/ground-cumin.jpg",
+							"id": 1002014,
+							"name": "cumin"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/water.jpg",
+							"id": 14412,
+							"name": "water"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/salt.jpg",
+							"id": 2047,
+							"name": "salt"
+						}
+					]
+				},
+				{
+					"equipment": [],
+					"step": "Transfer to serving dish. You will have leftovers, which store well in a covered container in the fridge for up to several days.Rinse and dry lettuce (or sub corn or flour tortillas) and choose the pieces that are a good \"cup\" shape to fill with toppings.Arrange on a serving plate and top with quinoa, black beans and sweet potatoes. You might have leftover toppings depending on how many salad cups you prepare. Leftovers keep well.",
+					"number": 4,
+					"ingredients": [
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/sweet-potato.jpg",
+							"id": 11507,
+							"name": "sweet potato"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/black-beans.jpg",
+							"id": 16015,
+							"name": "black beans"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/iceberg-lettuce.jpg",
+							"id": 11252,
+							"name": "lettuce"
+						}
+					]
+				},
+				{
+					"equipment": [],
+					"step": "Serve with dressing and any additional desired toppings, such as cilantro, salsa, chips or sliced jalapeno.",
+					"number": 5,
+					"ingredients": [
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/cilantro.png",
+							"id": 11165,
+							"name": "cilantro"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/jalapeno-pepper.png",
+							"id": 11979,
+							"name": "jalapeno pepper"
+						},
+						{
+							"image": "https://spoonacular.com/cdn/ingredients_100x100/salsa.jpg",
+							"id": 6164,
+							"name": "salsa"
+						}
+					]
+				}
+			],
+			"id": 500436
+		}
+	]
+}
